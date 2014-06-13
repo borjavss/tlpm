@@ -7,7 +7,7 @@ All things should be done are written in this document.
 Every "task" (step, accomplishment, goal) should be writte giving the next information:
 - name
 - user (if proposed)
-- priority ( * = low / ** = medium / *** = high)
+- priority ( low / medium / high)
 - state of accomplishment (and due date if necessary)
 - employed ressources
 - conflicts with others tasks
