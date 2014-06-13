@@ -13,5 +13,6 @@ Every "task" (step, accomplishment, goal) should be writte giving the next infor
 - conflicts with others tasks
 
 ### to do list:
-- millions of things (15/06/2014)
+- thousands of things (15/06/2014)
+- more thousands of things (15/06/2014)
 ... in process ...
