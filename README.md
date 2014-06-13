@@ -1,4 +1,4 @@
-The Last Predictions Machine - tlpm
+The Last Predictions Machine - TLPM
 ====
 
 You can find project presentation on http://borjavss.github.io/tlpm/
