@@ -1,4 +1,4 @@
-This is the "readme" of data folder
+"data" folder readme
 ===================================
 This folder will be divided on sub-folders with different tipes of data.
 We prefer to leave data on their current hosting place in order to not subcharge github directories.
@@ -19,3 +19,4 @@ To maintain a data working directory, each time that a new sub-data folder be ad
 - (nothing)
 - (nothing)
 - (nothing)
+- ...
